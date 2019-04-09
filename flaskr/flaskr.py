@@ -99,7 +99,7 @@ def logout():
 
 
 
-
+##이제 템플릿 만들차례 ok?
 
 if __name__ == '__main__':
     app.run()
