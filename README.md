@@ -8,6 +8,7 @@
 참고 사이트 :
 
 https://flask-docs-kr.readthedocs.io/ko/latest/appcontext.html
+https://niceman.tistory.com/191
 
 #참고로 야매로 배우는 것이기 때문에 배워보자 시리즈들은 사이트에서 참고하는 것들이 대다수이고 프로젝트에서 달리 할 것임 볼사람이 몇이되겠냐 하지만 
 개인
