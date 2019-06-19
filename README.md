@@ -10,6 +10,8 @@
 https://flask-docs-kr.readthedocs.io/ko/latest/appcontext.html
 https://niceman.tistory.com/191
 
+https://www.opentutorials.org/module/3669/22070
+
 #참고로 야매로 배우는 것이기 때문에 배워보자 시리즈들은 사이트에서 참고하는 것들이 대다수이고 프로젝트에서 달리 할 것임 볼사람이 몇이되겠냐 하지만 
 개인
 공부니까 같이 공부할 사람들은 보면 좋고 저아는 사람들은 옆에서 좋은 사이트 있으면 
